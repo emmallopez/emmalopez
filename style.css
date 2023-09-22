@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(190, 166, 188);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    width: 400px;
+    border:1px solid black;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    background-color: white;
+}
+
+h1{
+    font-family: 'Handlee', cursive;
+}
